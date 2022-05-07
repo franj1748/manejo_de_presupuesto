@@ -1,9 +1,9 @@
 const ingresos = [
-    new Ingreso('Ejemplo de Ingreso', 0),
+    new Ingreso('Ejemplo de Ingreso', 500),
 ];
 
 const egresos = [
-    new Egreso('Ejemplo de Egreso', 0),
+    new Egreso('Ejemplo de Egreso', 50),
 ];
 
 let cargarApp = ()=>{
